@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkSampleAB.Application\WorkSampleAB.Application.csproj" />
+    <ProjectReference Include="..\WorkSampleAB.DomainLogic\WorkSampleAB.DomainLogic.csproj" />
+    <ProjectReference Include="..\WorkSampleAB.ExternalDataProvider\WorkSampleAB.ExternalDataProvider.csproj" />
+    <ProjectReference Include="..\WorkSampleAB.Infrastructure\WorkSampleAB.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

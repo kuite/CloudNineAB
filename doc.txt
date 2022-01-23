@@ -1,0 +1,956 @@
+
+songs:
+6z9MvYRJHKdhJkivjuzpGl
+5P4zREchhYniyY7GFqw6jC
+2MbdDtCv5LUVjYy9RuGTgC
+5sbooPcNgIE22DwO0VNGUJ
+
+artist:
+2CIMQHirSU0MQqyYHq0eOx
+57dN52uHvrHOxijzpIgu3E
+1vCWHaC5f2uS3yhpwWbIA6
+
+"genres": [
+    "acoustic",
+    "afrobeat",
+    "alt-rock",
+    "alternative",
+    "ambient",
+    "anime",
+    "black-metal",
+    "bluegrass",
+    "blues",
+    "bossanova",
+    "brazil",
+    "breakbeat",
+    "british",
+    "cantopop",
+    "chicago-house",
+    "children",
+    "chill",
+    "classical",
+    "club",
+    "comedy",
+    "country",
+    "dance",
+    "dancehall",
+    "death-metal",
+    "deep-house",
+    "detroit-techno",
+    "disco",
+    "disney",
+    "drum-and-bass",
+    "dub",
+    "dubstep",
+    "edm",
+    "electro",
+    "electronic",
+    "emo",
+    "folk",
+    "forro",
+    "french",
+    "funk",
+    "garage",
+    "german",
+    "gospel",
+    "goth",
+    "grindcore",
+    "groove",
+    "grunge",
+    "guitar",
+    "happy",
+    "hard-rock",
+    "hardcore",
+    "hardstyle",
+    "heavy-metal",
+    "hip-hop",
+    "holidays",
+    "honky-tonk",
+    "house",
+    "idm",
+    "indian",
+    "indie",
+    "indie-pop",
+    "industrial",
+    "iranian",
+    "j-dance",
+    "j-idol",
+    "j-pop",
+    "j-rock",
+    "jazz",
+    "k-pop",
+    "kids",
+    "latin",
+    "latino",
+    "malay",
+    "mandopop",
+    "metal",
+    "metal-misc",
+    "metalcore",
+    "minimal-techno",
+    "movies",
+    "mpb",
+    "new-age",
+    "new-release",
+    "opera",
+    "pagode",
+    "party",
+    "philippines-opm",
+    "piano",
+    "pop",
+    "pop-film",
+    "post-dubstep",
+    "power-pop",
+    "progressive-house",
+    "psych-rock",
+    "punk",
+    "punk-rock",
+    "r-n-b",
+    "rainy-day",
+    "reggae",
+    "reggaeton",
+    "road-trip",
+    "rock",
+    "rock-n-roll",
+    "rockabilly",
+    "romance",
+    "sad",
+    "salsa",
+    "samba",
+    "sertanejo",
+    "show-tunes",
+    "singer-songwriter",
+    "ska",
+    "sleep",
+    "songwriter",
+    "soul",
+    "soundtracks",
+    "spanish",
+    "study",
+    "summer",
+    "swedish",
+    "synth-pop",
+    "tango",
+    "techno",
+    "trance",
+    "trip-hop",
+    "turkish",
+    "work-out",
+    "world-music"
+  ]
+  
+  
+  
+  
+  
+  
+  {
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+        "id" : "4bL2B6hmLlMWnUEZnorEtG",
+        "name" : "Felix Jaehn",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0sjs1xL0cFjiRRze2n7vmq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0sjs1xL0cFjiRRze2n7vmq",
+      "id" : "0sjs1xL0cFjiRRze2n7vmq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27339157aa3a5552885b034b7b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0239157aa3a5552885b034b7b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485139157aa3a5552885b034b7b8",
+        "width" : 64
+      } ],
+      "name" : "Ain't Nobody (Loves Me Better)",
+      "release_date" : "2015-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:0sjs1xL0cFjiRRze2n7vmq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+      "id" : "4bL2B6hmLlMWnUEZnorEtG",
+      "name" : "Felix Jaehn",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TL8gYTNgD6nXkyuUdDrMg",
+      "id" : "2TL8gYTNgD6nXkyuUdDrMg",
+      "name" : "Jasmine Thompson",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TL8gYTNgD6nXkyuUdDrMg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 306946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEUM71500426"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6kOFGxdsjQaRdI6Elv96uQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6kOFGxdsjQaRdI6Elv96uQ",
+    "id" : "6kOFGxdsjQaRdI6Elv96uQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ain't Nobody (Loves Me Better) - Extended Mix",
+    "popularity" : 46,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6kOFGxdsjQaRdI6Elv96uQ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs",
+        "id" : "6ueGR6SWhUJfvEhqkvMsVs",
+        "name" : "Janelle Monáe",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3bnHtSmmsgJiG82hGCmsq9",
+      "id" : "3bnHtSmmsgJiG82hGCmsq9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27357cc241e3fc4e95eea8c4b20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0257cc241e3fc4e95eea8c4b20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485157cc241e3fc4e95eea8c4b20",
+        "width" : 64
+      } ],
+      "name" : "The Electric Lady",
+      "release_date" : "2013-09-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:3bnHtSmmsgJiG82hGCmsq9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs",
+      "id" : "6ueGR6SWhUJfvEhqkvMsVs",
+      "name" : "Janelle Monáe",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41300016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3dUMuxNadGxCE3qXuhCwqa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3dUMuxNadGxCE3qXuhCwqa",
+    "id" : "3dUMuxNadGxCE3qXuhCwqa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dance Apocalyptic",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/67d39936c0ce07e6fad206283636c1228970eeb5?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3dUMuxNadGxCE3qXuhCwqa"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1tuekzsMZQOuiMejKP6t2Y",
+      "id" : "1tuekzsMZQOuiMejKP6t2Y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739f0c014998bac13d3181474c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029f0c014998bac13d3181474c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519f0c014998bac13d3181474c",
+        "width" : 64
+      } ],
+      "name" : "Lady Wood",
+      "release_date" : "2016-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1tuekzsMZQOuiMejKP6t2Y"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+      "id" : "4NHQUGzhtTLFvgF5SZesLK",
+      "name" : "Tove Lo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231025,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "SEUM71601203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4vIClNt19EynTBe133jer3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4vIClNt19EynTBe133jer3",
+    "id" : "4vIClNt19EynTBe133jer3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Keep It Simple",
+    "popularity" : 42,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4vIClNt19EynTBe133jer3"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7qRll6DYV06u2VuRPAVqug",
+        "id" : "7qRll6DYV06u2VuRPAVqug",
+        "name" : "Foxes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7qRll6DYV06u2VuRPAVqug"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5AQ7uKRSpAv7SNUl4j24ru",
+      "id" : "5AQ7uKRSpAv7SNUl4j24ru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae5c7d20a58c6071b4571eff",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae5c7d20a58c6071b4571eff",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae5c7d20a58c6071b4571eff",
+        "width" : 64
+      } ],
+      "name" : "Glorious (Deluxe)",
+      "release_date" : "2014-05-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:5AQ7uKRSpAv7SNUl4j24ru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7qRll6DYV06u2VuRPAVqug",
+      "id" : "7qRll6DYV06u2VuRPAVqug",
+      "name" : "Foxes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7qRll6DYV06u2VuRPAVqug"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1301249"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59lq75uFIqzUZcgZ4CbqFG",
+    "id" : "59lq75uFIqzUZcgZ4CbqFG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let Go for Tonight",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bd173e6bde21d64f8d441fee03a79eaf66f4d0d5?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:59lq75uFIqzUZcgZ4CbqFG"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2iXdwLTWyFhlN1MQWIymvM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2iXdwLTWyFhlN1MQWIymvM",
+        "id" : "2iXdwLTWyFhlN1MQWIymvM",
+        "name" : "araabMUZIK",
+        "type" : "artist",
+        "uri" : "spotify:artist:2iXdwLTWyFhlN1MQWIymvM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0l3nWSQz94JOJblCVBMg6j"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0l3nWSQz94JOJblCVBMg6j",
+      "id" : "0l3nWSQz94JOJblCVBMg6j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fa7f71573422a234e25b5e4d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fa7f71573422a234e25b5e4d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fa7f71573422a234e25b5e4d",
+        "width" : 64
+      } ],
+      "name" : "The Remixes Vol. 1",
+      "release_date" : "2013-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:0l3nWSQz94JOJblCVBMg6j"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Ws2otunReOa6BbwxxpCt6",
+      "id" : "4Ws2otunReOa6BbwxxpCt6",
+      "name" : "Benny Benassi",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Ws2otunReOa6BbwxxpCt6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6beTArFVpUujvkHi9FVPqs",
+      "id" : "6beTArFVpUujvkHi9FVPqs",
+      "name" : "Gary Go",
+      "type" : "artist",
+      "uri" : "spotify:artist:6beTArFVpUujvkHi9FVPqs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+      "id" : "5he5w2lnU9x7JFhnwcekXX",
+      "name" : "Skrillex",
+      "type" : "artist",
+      "uri" : "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iXdwLTWyFhlN1MQWIymvM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iXdwLTWyFhlN1MQWIymvM",
+      "id" : "2iXdwLTWyFhlN1MQWIymvM",
+      "name" : "araabMUZIK",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iXdwLTWyFhlN1MQWIymvM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244824,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS11201558"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/215YeBn8FuDN8PNIhBdAoO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/215YeBn8FuDN8PNIhBdAoO",
+    "id" : "215YeBn8FuDN8PNIhBdAoO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cinema - Skrillex vs Araabmuzik",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ba0e10e3116a0297499237f487e91d2b5c435a6a?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:215YeBn8FuDN8PNIhBdAoO"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+        "id" : "2wOqMjp9TyABvtHdOSOTUS",
+        "name" : "Ludwig van Beethoven",
+        "type" : "artist",
+        "uri" : "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LYCuV8d6rylb6zjv2k03l",
+        "id" : "4LYCuV8d6rylb6zjv2k03l",
+        "name" : "Paul Lewis",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LYCuV8d6rylb6zjv2k03l"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4bNwPPpk01D8pVV9IFSBde"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4bNwPPpk01D8pVV9IFSBde",
+      "id" : "4bNwPPpk01D8pVV9IFSBde",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fbde95caaf1018f9af50f71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fbde95caaf1018f9af50f71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fbde95caaf1018f9af50f71",
+        "width" : 64
+      } ],
+      "name" : "Beethoven: Piano Sonatas, Vol.3",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:4bNwPPpk01D8pVV9IFSBde"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+      "id" : "2wOqMjp9TyABvtHdOSOTUS",
+      "name" : "Ludwig van Beethoven",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LYCuV8d6rylb6zjv2k03l",
+      "id" : "4LYCuV8d6rylb6zjv2k03l",
+      "name" : "Paul Lewis",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LYCuV8d6rylb6zjv2k03l"
+    } ],
+    "disc_number" : 3,
+    "duration_ms" : 315426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ140632090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DNRdudZ2SstnDCVKFdXxG",
+    "id" : "3DNRdudZ2SstnDCVKFdXxG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sonata No. 14 \"Moonlight\" in C-Sharp Minor\", Op. 27 No. 2: I. Adagio sostenuto",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c2b7bbe98f908c395f2c7517760707a20bac794?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3DNRdudZ2SstnDCVKFdXxG"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6MF58APd3YV72Ln2eVg710",
+        "id" : "6MF58APd3YV72Ln2eVg710",
+        "name" : "Felix Mendelssohn",
+        "type" : "artist",
+        "uri" : "spotify:artist:6MF58APd3YV72Ln2eVg710"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0BCJvlOxJpb5zczdIlFix2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0BCJvlOxJpb5zczdIlFix2",
+      "id" : "0BCJvlOxJpb5zczdIlFix2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f70f3430ed28c579f0b61a11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f70f3430ed28c579f0b61a11",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f70f3430ed28c579f0b61a11",
+        "width" : 64
+      } ],
+      "name" : "Mendelssohn: Songs Without Words (Selection)",
+      "release_date" : "1997-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 25,
+      "type" : "album",
+      "uri" : "spotify:album:0BCJvlOxJpb5zczdIlFix2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6MF58APd3YV72Ln2eVg710",
+      "id" : "6MF58APd3YV72Ln2eVg710",
+      "name" : "Felix Mendelssohn",
+      "type" : "artist",
+      "uri" : "spotify:artist:6MF58APd3YV72Ln2eVg710"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Hv8naKkLxWrfxkRMPz5bM",
+      "id" : "4Hv8naKkLxWrfxkRMPz5bM",
+      "name" : "Péter Nagy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Hv8naKkLxWrfxkRMPz5bM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 282693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "HKI199632305"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RDQc1lHscLD6i8WjzwpyG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RDQc1lHscLD6i8WjzwpyG",
+    "id" : "4RDQc1lHscLD6i8WjzwpyG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30/1",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/212ecf05b7b664dbbbb4d3e934a8139aab020721?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4RDQc1lHscLD6i8WjzwpyG"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IELhvOMg5VQlU7syRm6CS",
+        "id" : "1IELhvOMg5VQlU7syRm6CS",
+        "name" : "CAZZETTE",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IELhvOMg5VQlU7syRm6CS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5mKNjpx3SmjNqtxQTmuo9Z",
+        "id" : "5mKNjpx3SmjNqtxQTmuo9Z",
+        "name" : "The High",
+        "type" : "artist",
+        "uri" : "spotify:artist:5mKNjpx3SmjNqtxQTmuo9Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2jufBNPkjXRYsvXA6Ln98W"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2jufBNPkjXRYsvXA6Ln98W",
+      "id" : "2jufBNPkjXRYsvXA6Ln98W",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e3f8294bb2df43881937b33b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e3f8294bb2df43881937b33b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e3f8294bb2df43881937b33b",
+        "width" : 64
+      } ],
+      "name" : "Sleepless",
+      "release_date" : "2014-05-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2jufBNPkjXRYsvXA6Ln98W"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1IELhvOMg5VQlU7syRm6CS",
+      "id" : "1IELhvOMg5VQlU7syRm6CS",
+      "name" : "CAZZETTE",
+      "type" : "artist",
+      "uri" : "spotify:artist:1IELhvOMg5VQlU7syRm6CS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5mKNjpx3SmjNqtxQTmuo9Z",
+      "id" : "5mKNjpx3SmjNqtxQTmuo9Z",
+      "name" : "The High",
+      "type" : "artist",
+      "uri" : "spotify:artist:5mKNjpx3SmjNqtxQTmuo9Z"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 221421,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CH3131340410"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5yECq6R2S2iTV8GTxen4JV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5yECq6R2S2iTV8GTxen4JV",
+    "id" : "5yECq6R2S2iTV8GTxen4JV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sleepless - Radio Edit",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/573144ea4d1ca22d7b76d9f69e4916a59ff50db4?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5yECq6R2S2iTV8GTxen4JV"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+        "id" : "3FfvYsEGaIb52QPXhg4DcH",
+        "name" : "Jason Aldean",
+        "type" : "artist",
+        "uri" : "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4zoJp3Lvtfx2BF3e1dC83K"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4zoJp3Lvtfx2BF3e1dC83K",
+      "id" : "4zoJp3Lvtfx2BF3e1dC83K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dd4de7d2f99ce53911967c10",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dd4de7d2f99ce53911967c10",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dd4de7d2f99ce53911967c10",
+        "width" : 64
+      } ],
+      "name" : "They Don't Know",
+      "release_date" : "2016-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:4zoJp3Lvtfx2BF3e1dC83K"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+      "id" : "3FfvYsEGaIb52QPXhg4DcH",
+      "name" : "Jason Aldean",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US58E1600568"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7DEgL4rErTwjrsxLMlUVhf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7DEgL4rErTwjrsxLMlUVhf",
+    "id" : "7DEgL4rErTwjrsxLMlUVhf",
+    "is_local" : false,
+    "is_playable" : true,
+    "linked_from" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4T5Z4mbTe7kuGqgLpaRtTh"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4T5Z4mbTe7kuGqgLpaRtTh",
+      "id" : "4T5Z4mbTe7kuGqgLpaRtTh",
+      "type" : "track",
+      "uri" : "spotify:track:4T5Z4mbTe7kuGqgLpaRtTh"
+    },
+    "name" : "Any Ol' Barstool",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/551f994084946608176ab9ff8d15cfbc04efb2f1?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7DEgL4rErTwjrsxLMlUVhf"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+        "id" : "5wTAi7QkpP6kp8a54lmTOq",
+        "name" : "Johannes Brahms",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP",
+        "id" : "13dkPjqmbcchm8cXjEJQeP",
+        "name" : "Glenn Gould",
+        "type" : "artist",
+        "uri" : "spotify:artist:13dkPjqmbcchm8cXjEJQeP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YabyjEw7SGbqzPFt3IFHI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YabyjEw7SGbqzPFt3IFHI",
+      "id" : "1YabyjEw7SGbqzPFt3IFHI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b1a301d3f1c0109cefb9614b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b1a301d3f1c0109cefb9614b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b1a301d3f1c0109cefb9614b",
+        "width" : 64
+      } ],
+      "name" : "Brahms: 4 Ballades, 2 Rhapsodies & Intermezzi",
+      "release_date" : "1961",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1YabyjEw7SGbqzPFt3IFHI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+      "id" : "5wTAi7QkpP6kp8a54lmTOq",
+      "name" : "Johannes Brahms",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP",
+      "id" : "13dkPjqmbcchm8cXjEJQeP",
+      "name" : "Glenn Gould",
+      "type" : "artist",
+      "uri" : "spotify:artist:13dkPjqmbcchm8cXjEJQeP"
+    } ],
+    "disc_number" : 2,
+    "duration_ms" : 318440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM16000713"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5GkvPnH2sZRda9YSk92dcO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5GkvPnH2sZRda9YSk92dcO",
+    "id" : "5GkvPnH2sZRda9YSk92dcO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "3 Intermezzi, Op. 117: No. 3 in C-Sharp Minor, Andante con moto",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8568f704155b244e2cac5a3c13328aab84de4488?cid=996d0037680544c987287a9b0470fdbb",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5GkvPnH2sZRda9YSk92dcO"
+  } ],
+  "seeds" : [ {
+    "initialPoolSize" : 257,
+    "afterFilteringSize" : 257,
+    "afterRelinkingSize" : 257,
+    "id" : "4NHQUGzhtTLFvgF5SZesLK",
+    "type" : "ARTIST",
+    "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK"
+  }, {
+    "initialPoolSize" : 302,
+    "afterFilteringSize" : 302,
+    "afterRelinkingSize" : 302,
+    "id" : "0c6xIDDpzE81m2q797ordA",
+    "type" : "TRACK",
+    "href" : "https://api.spotify.com/v1/tracks/0c6xIDDpzE81m2q797ordA"
+  }, {
+    "initialPoolSize" : 406,
+    "afterFilteringSize" : 406,
+    "afterRelinkingSize" : 406,
+    "id" : "classical",
+    "type" : "GENRE",
+    "href" : null
+  }, {
+    "initialPoolSize" : 392,
+    "afterFilteringSize" : 392,
+    "afterRelinkingSize" : 392,
+    "id" : "country",
+    "type" : "GENRE",
+    "href" : null
+  } ]
+}

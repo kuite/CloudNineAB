@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkSampleAB.DomainLogic\WorkSampleAB.DomainLogic.csproj" />
+    <ProjectReference Include="..\WorkSampleAB.Domain\WorkSampleAB.Domain.csproj" />
+    <ProjectReference Include="..\WorkSampleAB.ExternalDataProvider\WorkSampleAB.ExternalDataProvider.csproj" />
+  </ItemGroup>
+
+</Project>
